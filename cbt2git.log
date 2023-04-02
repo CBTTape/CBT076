@@ -1,0 +1,14 @@
+2023-04-02 21:22:32.512148 - Initialized conversion of CBT076
+2023-04-02 21:22:32.589970 - Received CBT.V504.FILE076.PDS from FILE076.XMI 
+2023-04-02 21:22:32.592635 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE076.PDS, moved to PDS/$$$#DATE
+2023-04-02 21:22:32.593968 - Found @FILE076.txt (text/plain) in CBT.V504.FILE076.PDS, moved to PDS/@FILE076
+2023-04-02 21:22:32.595225 - Found PXASM.txt (text/plain) in CBT.V504.FILE076.PDS, moved to PDS/PXASM
+2023-04-02 21:22:32.596284 - Found PXCREATP.txt (text/plain) in CBT.V504.FILE076.PDS, moved to PDS/PXCREATP
+2023-04-02 21:22:32.597452 - Found PXCVS.txt (text/plain) in CBT.V504.FILE076.PDS, moved to PDS/PXCVS
+2023-04-02 21:22:32.598462 - Found PXFORT.txt (text/plain) in CBT.V504.FILE076.PDS, moved to PDS/PXFORT
+2023-04-02 21:22:32.599588 - Found PXLK.txt (text/plain) in CBT.V504.FILE076.PDS, moved to PDS/PXLK
+2023-04-02 21:22:32.600601 - Found PXOPT.txt (text/plain) in CBT.V504.FILE076.PDS, moved to PDS/PXOPT
+2023-04-02 21:22:32.601551 - Found PXPL1.txt (text/plain) in CBT.V504.FILE076.PDS, moved to PDS/PXPL1
+2023-04-02 21:22:32.602555 - Found PXRESTRP.txt (text/plain) in CBT.V504.FILE076.PDS, moved to PDS/PXRESTRP
+2023-04-02 21:22:32.603549 - Found PXSTBKUP.txt (text/plain) in CBT.V504.FILE076.PDS, moved to PDS/PXSTBKUP
+2023-04-02 21:22:32.604783 - Found STORE.jcl (text/plain) in CBT.V504.FILE076.PDS, moved to PDS/STORE
